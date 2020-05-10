@@ -19,6 +19,7 @@
       <name>Werner Randelshofer</name>
       <email>werner.randelshofer@fibermail.ch</email>
     </developer>
+    
   </developers>
   <scm>
     <connection>scm:git:git://github.com/sbtqa/monte-media</connection>
@@ -121,6 +122,10 @@
             <goals>
               <goal>sign</goal>
             </goals>
+	  <configuration>
+        <keyname>22EE55E4</keyname>
+			  
+      </configuration>
           </execution>
         </executions>
       </plugin>
