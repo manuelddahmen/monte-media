@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>one.empty3</groupId>
   <artifactId>montemedia</artifactId>
-  <version>0.0.7</version>
+  <version>0.0.7-1</version>
   <packaging>jar</packaging>
   <name>montemedia</name>
   <description>monte-media </description>
