@@ -6,11 +6,11 @@
   <version>0.0.7</version>
   <packaging>jar</packaging>
   <name>montemedia</name>
-  <description>monte-media description</description>
-  <url>http://github.com/sbtqa/qa-utils</url>
+  <description>monte-media </description>
+  <url>https://creativecommons.org/licenses/by/3.0/</url>
   <licenses>
     <license>
-      <name>The Apache Software License, Version 2.0</name>
+      <name> Creative Commons Attribution 3.0 (CC BY 3.0)</name>
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
     </license>
   </licenses>
