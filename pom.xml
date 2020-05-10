@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>ru.sbtqa</groupId>
-  <artifactId>monte-media</artifactId>
-  <version>1.0.1</version>
+  <groupId>one.empty3</groupId>
+  <artifactId>montemedia</artifactId>
+  <version>0.0.7</version>
   <packaging>jar</packaging>
-  <name>monte-media</name>
+  <name>montemedia</name>
   <description>monte-media description</description>
   <url>http://github.com/sbtqa/qa-utils</url>
   <licenses>
@@ -19,7 +19,13 @@
       <name>Werner Randelshofer</name>
       <email>werner.randelshofer@fibermail.ch</email>
     </developer>
-    
+    <developer>
+			<email>dathewolf@gmail.com</email>
+			<name>Manuel D Dahmen
+			</name>
+			<url>https://github.com/manuelddahmen</url>
+			<id>manuelddahmen</id>
+		</developer>
   </developers>
   <scm>
     <connection>scm:git:git://github.com/sbtqa/monte-media</connection>
