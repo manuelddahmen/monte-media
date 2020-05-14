@@ -237,7 +237,7 @@ public abstract class Registry {
 
     public MovieReader getReader(File file) {
         Format format = getFileFormat(file);
-        return format == null ? null : getReader(format, file);
+        return getReader(format, file);
     }
 
     public abstract void putFileFormat(String extension, Format format);
